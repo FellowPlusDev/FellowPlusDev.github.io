@@ -1,3 +1,3 @@
-# FellowPlusDev.github.io  -> dev.fellowplus.com
+# FellowPlusDev.github.io  -> tech.fellowplus.com
 
 ## FellowPlus 技术栈
