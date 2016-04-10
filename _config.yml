@@ -1,8 +1,8 @@
 # Basic
-title: Tech.FellowPlus
-subtitle: FellowPlus Development Team
-welcome_message: <a href="https://fellowplus.com" target="_blank">FellowPlus 开发团队博客</a>
-description: 欢迎
+title: FellowPlus Dev
+subtitle: 技术团队
+welcome_message: <a href="https://fellowplus.com" target="_blank">FellowPlus.com</a>
+description: 欢迎来到我们的秘密花园，期待一同分享更多技术干果.
 creator: <a href="http://binboy.top">@Binboy</a>
 
 url: "http://fellowplusdev.github.io"
@@ -20,12 +20,12 @@ cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 博客
+    description: 欢迎进入
 
 # Navigation buttons in the front page.
 nav:
-    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Projects, description: My Projects, url: 'http://project.example.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -35,7 +35,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: binlogo
+    disqus: fellowplusdev
     # duoshuo: 
     
 # Social
